@@ -34,7 +34,6 @@
                     else
                     {
                         Console.WriteLine(i);
-
                     }
                 }
             }
